@@ -1,0 +1,5 @@
+pip install fastapi uvicorn sqlalchemy psycopg2-binary \
+passlib[bcrypt] python-jose python-multipart \
+pandas joblib shap
+matplotlib
+seaborn
